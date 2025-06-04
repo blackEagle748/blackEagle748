@@ -1,4 +1,4 @@
-## Hello Humans, i am blackEagle748!
+## Hello Humans, I am blackEagle748!
 
 - I like coding
 - Developing solutions to my problems!
